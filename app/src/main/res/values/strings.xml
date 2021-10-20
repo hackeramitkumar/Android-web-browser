@@ -1,4 +1,5 @@
 <resources>
+    
     <string name="app_name">SS-Browser</string>
     <string name="title_activity_tab">tabActivity</string>
     <string name="action_settings">Settings</string>
@@ -9,4 +10,5 @@
     <string name="hi_user_nwhat_about_surfing_stuff">Hi, User!\nWhat about surfing stuff?</string>
     <string name="new_tab">New Tab</string>
     <string name="confirm_exit">Confirm exit</string>
+    
 </resources>
